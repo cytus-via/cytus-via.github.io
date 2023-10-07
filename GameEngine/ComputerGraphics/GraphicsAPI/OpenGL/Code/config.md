@@ -1,0 +1,2 @@
+https://www.dounaite.com/article/62602bb5f86aba5c78806ede.html
+此文档缺少libopengl32.a，无法链接opengl，可以编译learn openGL的示例代码，但无法编译glfw官网的示例代码,主要原因在于无法直接调用gl核心库的内容
